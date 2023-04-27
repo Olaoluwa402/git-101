@@ -5,3 +5,5 @@ const product = a * 12;
 console.log(product);
 
 const c = 388;
+
+const afterStach = 45;
