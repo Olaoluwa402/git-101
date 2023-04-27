@@ -8,3 +8,4 @@ const c = 388;
 
 const afterStach = 45;
 const d = 333;
+const testFetch = 23;
