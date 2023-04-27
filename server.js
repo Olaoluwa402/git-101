@@ -7,3 +7,4 @@ console.log(product);
 const c = 388;
 
 const afterStach = 45;
+const d = 333;
